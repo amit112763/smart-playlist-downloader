@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+Downloads/
+logs/download_history.log
+
+.vscode/
